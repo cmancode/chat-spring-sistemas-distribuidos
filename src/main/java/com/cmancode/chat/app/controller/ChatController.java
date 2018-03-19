@@ -16,5 +16,7 @@ public class ChatController {
 		Thread.sleep(1000);
 		return new Greeting(mensaje.getUsuario() +" dice: "+ mensaje.getMensaje());
 	}
-		
+	
+	
+	
 }
